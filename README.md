@@ -5,7 +5,7 @@ To add your own screenshot, take a picture of the running application and replac
 
 View the Live Demo Here
 
-hackathon-terminal-project.vercel.app
+https://github.com/ramakrishnakola507/hackathon-terminal-project
 
 Features
 This project successfully implements all mandatory and optional hackathon requirements, resulting in a feature-rich and robust application.
